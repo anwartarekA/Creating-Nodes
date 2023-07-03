@@ -1,0 +1,15 @@
+button{
+    display: none;
+}
+
+@media (max-width:450px){
+   form{
+        width: 300px;
+    }
+}
+@media (min-width:451px){
+    form{
+        width: 400px;
+    }
+}
+
